@@ -13,7 +13,7 @@
              remote="nord5-stahed"
              revision="17" />
 
-    <project name="proprietary_vendor_oneplus_lexus"
+    <project name="vendor_oneplus_lexus"
              path="vendor/oneplus/lexus"
              remote="nord5-stahed"
              revision="17" />
