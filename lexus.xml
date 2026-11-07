@@ -6,55 +6,55 @@
     <project name="device_oneplus_lexus"
              path="device/oneplus/lexus"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="device_oneplus_sm8650-common"
              path="device/oneplus/sm8650-common"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
-    <project name="vendor_oneplus_lexus"
+    <project name="proprietary_vendor_oneplus_lexus"
              path="vendor/oneplus/lexus"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="vendor_oneplus_sm8650-common"
              path="vendor/oneplus/sm8650-common"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="vendor_oneplus_dolby"
              path="vendor/oneplus/dolby"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="vendor_oneplus_ir"
              path="vendor/oneplus/ir"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="kernel_oneplus_sm8650"
              path="kernel/oneplus/sm8650"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="kernel_oneplus_sm8650-devicetrees"
              path="kernel/oneplus/sm8650-devicetrees"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="kernel_oneplus_sm8650-modules"
              path="kernel/oneplus/sm8650-modules"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="hardware_oplus"
              path="hardware/oplus"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 
     <project name="packages_apps_LunarisDolby"
              path="packages/apps/LunarisDolby"
              remote="nord5-stahed"
-             revision="17" />
+             revision="inf" />
 </manifest>
